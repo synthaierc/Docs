@@ -1,1 +1,1 @@
-# Docs
+https://docs.synthai.llc/
